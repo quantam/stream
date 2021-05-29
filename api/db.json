@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "mg,",
+      "description": ",mgmfdkg;d",
+      "id": 1
+    },
+    {
+      "title": "Fitrst stream",
+      "description": "Stream with user id",
+      "userId": "103637943795671549670",
+      "id": 2
+    },
+    {
+      "title": "Component Reuse edit",
+      "description": "New stream after component reuse edit",
+      "id": 5
+    }
+  ]
+}
